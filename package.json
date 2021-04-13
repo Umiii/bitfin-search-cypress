@@ -1,0 +1,25 @@
+{
+  "name": "bitfin-search-cypress",
+  "version": "1.0.0",
+  "description": "Basic search script in Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umiii/bitfin-search-cypress.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Umi Ikem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umiii/bitfin-search-cypress/issues"
+  },
+  "homepage": "https://github.com/Umiii/bitfin-search-cypress#readme",
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
