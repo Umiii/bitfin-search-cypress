@@ -1,6 +1,6 @@
 # bitfin-search-cypress
 
-#### This script searches for a phrase using the search bar on the bitfinex homepage and clicks on the results
+#### This cypress script searches for a phrase using the search bar on the bitfinex homepage and clicks on the results
 
 **Follow the steps below to run the cypress script**
 - Clone project to local folder
